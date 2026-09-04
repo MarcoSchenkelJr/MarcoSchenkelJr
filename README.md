@@ -1,6 +1,6 @@
 ### Hello World!
 
-Estudante de Ciência da Computação na Universidade Feevale, em transição de carreira para a área de tecnologia. Combino minha paixão por lógica e desenvolvimento de software com um background inusitado: sou formado em mecânica automotiva, assim como gosto de ajustar a mecânica de carros antidos nas horas vagas, adoro escrever código limpo e entender como sistemas complexos funcionam.
+Estudante de Ciência da Computação na Universidade Feevale, em transição de carreira para a área de tecnologia. Combino minha paixão por lógica e desenvolvimento de software com um background inusitado: sou formado em mecânica automotiva, assim como gosto de ajustar a mecânica de carros antigos nas horas vagas, adoro escrever código limpo e entender como sistemas complexos funcionam.
 
 💻 **O que estou fazendo agora:**
 - 🎓 Cursando Ciência da Computação (Universidade Feevale).
