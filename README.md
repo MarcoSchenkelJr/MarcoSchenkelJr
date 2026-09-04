@@ -5,7 +5,6 @@ Estudante de Ciência da Computação na Universidade Feevale, em transição de
 💻 **O que estou fazendo agora:**
 - 🎓 Cursando Ciência da Computação (Universidade Feevale).
 - 🐧 Utilizando Linux e CLI como meu ambiente principal para desenvolvimento e estudos.
-- 
 - 🚀 Construindo aplicações Full-Stack e explorando Visão Computacional (PDI), unindo **Python, OpenCV e FastAPI** no backend com **React e TypeScript** no frontend.
 - 🇺🇸 Estudando inglês de forma autodidata.
 
